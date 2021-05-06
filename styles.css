@@ -72,8 +72,8 @@ hr{
   animation:slider 9s infinite linear;
 }
 @keyframes slider {
-    0%{background-image:url(file:///C:/Users/kbmsb/Downloads/web%20devlopment/personal%20site/css-my%20site/photo-1.JPG);}
-    25%{background-image:url(file:///C:/Users/kbmsb/Downloads/web%20devlopment/personal%20site/css-my%20site/photo-2.JPG);}
-    50%{background-image:url(file:///C:/Users/kbmsb/Downloads/web%20devlopment/personal%20site/css-my%20site/photo-3.JPG);}
-    75%{background-image:url(file:///C:/Users/kbmsb/Downloads/web%20devlopment/personal%20site/css-my%20site/photo-4.JPG);}
+    0%{background-image:url(./web%20devlopment/personal%20site/css-my%20site/photo-1.JPG);}
+    25%{background-image:url(./web%20devlopment/personal%20site/css-my%20site/photo-2.JPG);}
+    50%{background-image:url(./web%20devlopment/personal%20site/css-my%20site/photo-3.JPG);}
+    75%{background-image:url(./web%20devlopment/personal%20site/css-my%20site/photo-4.JPG);}
 }
