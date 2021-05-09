@@ -1,6 +1,6 @@
  body{
    background-color:#f3bda1 ;
-
+  background-image: url(file:///C:/mycode/cv/web%20devlopment/personal%20site/backgroung-image.jpg);
 }
 h1{
   text-align:center;
@@ -66,7 +66,7 @@ hr{
   left: 50%;
   top:1100px;
   transform: translate(-50%,-10%);
-  background-image:url(https://ganesh4408.github.io/cv/web%20devlopment/personal%20site/css-my%20site/photo-1.JPG);
+  background-image:url(https://ganesh4408.github.io/cv/css-my%20site/photo-1.JPG);
   background-size: 700px 700px;
   box-shadow: 1px 2px 10px 5px white;
   animation:slider 9s infinite linear;
