@@ -1,0 +1,17 @@
+body{
+  background-color:#a7bbc7;
+  background-image: url(https://cdn.discordapp.com/attachments/795695496446214154/841261820622405652/ga.png);
+
+}
+
+img{
+  height: 120px;
+  border-radius: 30%;
+}
+.title{
+  font-size: 120px;
+font-family:Helvetica,Arial,sans-serif;
+ color:black;
+ word-spacing:5px;
+}
+​
