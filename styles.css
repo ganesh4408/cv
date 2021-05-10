@@ -1,79 +1,17 @@
- body{
-   background-color:#f3bda1 ;
-  background-image: url(file:///C:/mycode/cv/web%20devlopment/personal%20site/backgroung-image.jpg);
-}
-h1{
-  text-align:center;
-
-  color: #687980;
-font-family: 'Dosis', sans-serif;;font-size: 40px
- }
-
-h2{
-  text-align: center;
-  color: #ff6701;
-  font-family: 'Antonio', sans-serif;
-}
-h4{
-  text-align:center;
-  color: #f21170;
-}
-h3{
-  text-align: center;
-  color: #2978b5;
-}
-.para{
-   text-align: center;
-
-
-  border-radius: 20px
-
-}
-a{
-  color:#24043eb3;
-}
-
-.sup{
-  text-align:center;
-  text-decoration-color: #f3bda1;
-
-}
-.idk{
-  text-align: center;
-  border-top-width: medium;
-
-  border-radius: 20px
-}
-
-.hello{
+body{
+  background-color:#a7bbc7;
+  background-image: url(https://cdn.discordapp.com/attachments/795695496446214154/841261820622405652/ga.png);
 
 }
 
-hr{
- border-style: dotted;
-  border-top: 0px;
- border-color:grey;
- border-width: 5px;
-
-  width: 5%;
+img{
+  height: 120px;
+  border-radius: 30%;
 }
-
-
-.slide{
-  width: 50%;
-  height: 400px;
-  position:absolute;
-  left: 50%;
-  top:1100px;
-  transform: translate(-50%,-10%);
-  background-image:url(https://ganesh4408.github.io/cv/css-my%20site/photo-1.JPG);
-  background-size: 700px 700px;
-  box-shadow: 1px 2px 10px 5px white;
-  animation:slider 9s infinite linear;
+.title{
+  font-size: 120px;
+font-family:Helvetica,Arial,sans-serif;
+ color:black;
+ word-spacing:5px;
 }
-@keyframes slider {
-    0%{background-image:url(https://ganesh4408.github.io/cv/web%20devlopment/personal%20site/css-my%20site/photo-1.JPG);}
-    25%{background-image:url(https://ganesh4408.github.io/cv/web%20devlopment/personal%20site/css-my%20site/photo-2.JPG);}
-    50%{background-image:url(https://ganesh4408.github.io/cv/web%20devlopment/personal%20site/css-my%20site/photo-3.JPG);}
-    75%{background-image:url(https://ganesh4408.github.io/cv/web%20devlopment/personal%20site/css-my%20site/photo-4.JPG);}
-}
+​
